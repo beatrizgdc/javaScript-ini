@@ -1,2 +1,2 @@
 # javaScript-ini
-Aprendendo javaScript Iniciante
+Projetos para aprendizagem JAVASCRIPT
